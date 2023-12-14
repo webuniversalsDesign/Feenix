@@ -1,0 +1,36 @@
+@media only screen and (max-width:600px){
+    .p-center{
+    width:96%;
+    color: white;
+  }
+
+  .mod-form{
+    width: 100%;
+  }
+
+}
+
+@media only screen and (min-width:998px){
+    .p-center{
+    width:700px;
+    color: white;
+  }
+
+  .mod-form{
+    width: 300px;
+
+  }
+
+}
+
+.p-center{
+padding-bottom: 10px;
+}
+
+  .chart-area .fun-facts .item {
+ 
+    border-right: 1px solid #e7e7e7;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+  }
